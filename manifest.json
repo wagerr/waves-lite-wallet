@@ -1,0 +1,19 @@
+{
+  "name": "WagerrLiteApp",
+  "short_name": "WagerrLite",
+  "description": "Wagerr's Waves Client - SWAP Enabled",
+  "version": "0.5.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "author": "Tosch, Eth, Sigwo Technologies",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions": [
+	   "storage"
+  ]
+}
