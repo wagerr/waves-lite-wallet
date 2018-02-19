@@ -33,4 +33,4 @@ In progress :
 8. Return to chrome://extensions/ , locate the Wagerr lite wallet in the list and press RELOAD
 9. Click on Details and then Create Shortcuts as needed
 10. Launch !
-11. Follow the instructions on [link pending] for withdrawing your tokens to the Wagerr Mainnet
+11. Follow the instructions on https://news.wagerr.com/how-to-swap-from-waves-to-wagerr-mainnet/ for withdrawing your tokens to the Wagerr Mainnet
